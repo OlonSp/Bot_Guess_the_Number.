@@ -5,7 +5,7 @@ import random
 
 BOT_TOKEN = 'Your bot token'
 
-bot = Bot(token= BOT_TOKEN)
+bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 ATTEMPT = 7
